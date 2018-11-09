@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.second {
+  margin: 0 auto;
+  background-color: #fa4542;
+  color: white;
+  padding: 20px;
+}
+
+.header {
+  background-color: black;
+  padding: 80px 0;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://ga-shop.s3.amazonaws.com/production/store/locationmasthead/10/image/retina-0ff69a6bb76e100ba309d48fa05e18d0.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.headerer {
+  background-color: black;
+  height: 60px;
+}
+
+.overlay {
+  background-color: black;
+  height: 100%;
+  opacity: 0.5;
+  position: relative;
+}
+.third {
+  padding: 60px 0 80px 0;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  color: white;
+  width: 40%;
+  margin: 0 auto;
+  padding: 0;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  width: 40%;
+  margin: 0 auto;
+}
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 21px;
+  line-height: 1.2em;
+  width: 40%;
+  margin: 0 auto;
+}
+ul {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 21px;
+  line-height: 1.2em;
+  list-style-type: circle red;
+}
+
+li {
+  width: 40%;
+  margin: 0 auto 0 auto;
+}
+
+a {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 21px;
+  color: black;
+}
+
+a:visited {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 21px;
+  color: black;
+}
